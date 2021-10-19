@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  font-size: 5.625rem;
+  margin: 0;
+  margin-top: 50px;
+  margin-bottom: 0;
+  /*background-color: #B5EAEA;*/
+  padding-bottom: 10px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  margin-top: 0;
+  font-size: 2.0rem;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p {
+  /*background-color: #B5EAEA;*/
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  width: 200px;
+  height: 80px;
+  position: absolute;
+  top: 40px;
+  right: 350px;
+}
+.mountain {
+  width: 700px;
+
+}
+.bottom-cloud {
+  width: 200px;
+  height: 80px;
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+.profile_pic{
+  border-radius: 50% ;
+  height: 180px;
+  width: 180px;
+}
+.travelling{
+  border-radius: 30% ;
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+}
+.binary-code{
+  /*border-radius: 30% ;*/
+  height:150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
